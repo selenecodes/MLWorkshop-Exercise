@@ -1,0 +1,8 @@
+packaging
+gym
+pandas_datareader
+tensorflow
+tensorforce
+numpy
+seaborn
+matplotlib
