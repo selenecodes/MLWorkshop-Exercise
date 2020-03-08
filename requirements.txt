@@ -1,7 +1,7 @@
 packaging
-gym
+gym==0.16.0
 pandas_datareader
-tensorflow
+tensorflow==2.0.0
 tensorforce
 numpy
 seaborn
